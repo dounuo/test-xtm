@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+    <file original="test.txt"  source-language="en">
+        <body>
+            <trans-unit id="100_character_description">
+                <source>100 character description:</source>
+            </trans-unit>
+            <trans-unit id="15_min_duration">
+		<note>File lock dialog duration</note>
+                <source>15 min</source>
+            </trans-unit>
+            <trans-unit id="duplicate_source">
+                <source>15 min</source>
+            </trans-unit>
+            <trans-unit id="1_day_duration">
+		<note>File lock dialog duration</note>
+                <source>1 day</source>
+            </trans-unit>
+            <trans-unit id="1_hour_duration">
+		<note>File lock dialog duration</note>
+                <source>1 hour</source>
+            </trans-unit>
+            <trans-unit id="1_month_duration">
+		<note>File lock dialog duration</note>
+                <source>1 month</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
